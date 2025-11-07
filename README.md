@@ -54,4 +54,23 @@ The system models real synchronization techniques used in:
 - **Wireless and IoT devices** relying on pulse-based synchronization (e.g., Wi-Fi routers and smart home devices).  
 
 By simulating these circuits, this project demonstrates how pulse-based synchronization forms the backbone of reliable communication systems — from industrial automation to consumer electronics.
+## Project Structure
 
+Pulse-Synchronization-System/
+├── Schematic/
+│   └── bacho1.slx
+|    └── bacho2.slx
+|    └── bacho3.slx
+|    └── bacho4.slx
+|
+├── Output/
+│   ├── Circuit1_Output.jpg
+│   ├── Circuit2_Output_200ohm.jpg
+│   ├── Circuit2_Output_455ohm.jpg
+│   ├── Circuit3_Output.jpg
+│   ├── Circuit4_Output.jpg
+│   ├── Circuit1_Pulse_Generator.jpg
+│   ├── Circuit2_Single_Pulse.jpg
+│   ├── Circuit3_Schmitt_Trigger.jpg
+│   └── Circuit4_DC_Conversion.jpg
+└── LICENSE
